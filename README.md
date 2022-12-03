@@ -41,7 +41,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NoobMahbub&show_icons=true&locale=en" alt="Kazi Mahbubur Rahman" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aliyan-Ahmed&show_icons=true&locale=en" alt="Aliyan Ahmed" /></p>
 
 <!-- [website]: 
 [facebook]: 
